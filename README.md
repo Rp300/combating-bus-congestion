@@ -1,8 +1,9 @@
 # CU-MTD
-## Organization Name: CU-MTD
+## Organization Name: 
+Champaign - Urbana Mass Transit District (CU-MTD).
  
 ## Local Sponsor: 
-Ryan Blackman from CU-MTD
+Ryan Blackman from CU-MTD.
 
 ## Overview:
 MTD helps our communities thrive by offering individuals, organizations, and municipalities what they need to get to what matters. Whether it’s getting you across town to work or doing our part in to change mobility in our region, expand Champaign’s downtown, or strengthen the connections between the University of Illinois and surrounding communities for good, MTD is a reliable partner and we’re here when you need us. 
@@ -11,11 +12,11 @@ MTD helps our communities thrive by offering individuals, organizations, and mun
 During the school year, bus traffic at stops around campuses fluctuates dramatically depending on the time of day. There are periods of ‘near-empty’ buses and periods of ‘sorry you cannot get on’ traffic. This project aims to identify the time and locations where bus demand is high based on location of academic buildings and class schedule. The insights may help CU-MTD to adjust bus schedule accordingly and improve the riding experience for passengers at on-campus stops.
 
 ## Evaluation criteria:
-Effective and compelling visualization of bus stops and bus stop traffic.
-Reasonable identification of hot spots (location and time).
-Thorough investigation of correlation between peak time and class schedule.
-Viable suggestions for optimizing bus routes and bus schedules.
-Usage and analysis of external datasets to tackle the problem.
+* Effective and compelling visualization of bus stops and bus stop traffic.
+* Reasonable identification of hot spots (location and time).
+* Thorough investigation of correlation between peak time and class schedule.
+* Viable suggestions for optimizing bus routes and bus schedules.
+* Usage and analysis of external datasets to tackle the problem.
  
 ## Datasets:
 
