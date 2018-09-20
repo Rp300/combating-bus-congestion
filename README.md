@@ -1,7 +1,8 @@
 # CU-MTD
 ## Organization Name: CU-MTD
  
-## Local Sponsor: Someone from CU-MTD
+## Local Sponsor: 
+Ryan Blackman from CU-MTD
 
 ## Overview:
 MTD helps our communities thrive by offering individuals, organizations, and municipalities what they need to get to what matters. Whether it’s getting you across town to work or doing our part in to change mobility in our region, expand Champaign’s downtown, or strengthen the connections between the University of Illinois and surrounding communities for good, MTD is a reliable partner and we’re here when you need us. 
