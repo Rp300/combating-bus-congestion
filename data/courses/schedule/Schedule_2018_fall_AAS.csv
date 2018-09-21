@@ -38,10 +38,10 @@ CRN,Type,Section,Time,Days,Location,Instructor
 70171,"Lecture-Discussion",A,"04:00 PM- 05:20 PM",MW,"212 - DavidKinley Hall","Paik, A"
 CRN,Type,Section,Time,Days,Location,Instructor
 65000,"Discussion/Recitation",A,"02:00 PM- 03:50 PM",R,"22 - EducationBuilding","Anderson, JMoton, TWard, R"
-"",Lecture,A,"02:00 PM- 03:50 PM",T,"22 - EducationBuilding","Anderson, JMoton, TWard, R"
+,Lecture,A,"02:00 PM- 03:50 PM",T,"22 - EducationBuilding","Anderson, JMoton, TWard, R"
 "Advanced Composition, and Cultural Studies - US Minority course.",,,,,,
 33764,"Discussion/Recitation",B,"02:00 PM- 03:50 PM",R,"242 - EducationBuilding",
-"",Lecture,B,"02:00 PM- 03:50 PM",T,"22 - EducationBuilding","Anderson, JMoton, TWard, R"
+,Lecture,B,"02:00 PM- 03:50 PM",T,"22 - EducationBuilding","Anderson, JMoton, TWard, R"
 "Advanced Composition, and Cultural Studies - US Minority course.",,,,,,
 CRN,Type,Section,Time,Days,Location,Instructor
 67235,"Lecture-Discussion",NP,"01:00 PM- 02:20 PM",MW,"174 -Wohlers Hall","Paik, A"
