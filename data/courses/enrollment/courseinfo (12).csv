@@ -1,1018 +1,116 @@
-<body>
-<h3></>Division of Management Information
-<a href="https://secure.dmi.illinois.edu/course">Course Information System</a>
-</h3>
-<h3>Enrollments and IUs by Course, Subject, and Offering Department<br>
-2018-19 <br>
-&nbsp;</h3>
-<font color=red>2018-19 courses are still in progress.  Final figures will be available by the end of September.</font><br>
-<h2>1. By Term and Course</h2>
-<table border=1 cellpadding=4 bgcolor="#EFFFFF">
-<tr align=center VALIGN=BOTTOM>
-<th rowspan=2>Term</th>
-<th rowspan=2>College</th>
-<th rowspan=2>Dept</th>
-<th rowspan=2>Subject</th>
-<th rowspan=2>Course</th>
-<th colspan=6>Course Enrollment by student level</th>
-<th colspan=6>IUs by student level</th>
-
-</tr>
-<tr align=center valign=bottom>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th></tr>
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>100</td>                                         
-              
-<td>4.0</td>                                             
-<td>27.0</td>                                       
-<td>0.0</td>                                                  
-<td>1.0</td>                                                  
-<td>0.0</td>                                                  
-<td>32.0</td>                                                   
-<td>12.0</td>                                             
-<td>81.0</td>                                       
-<td>0.0</td>                                                  
-<td>3.0</td>                                                  
-<td>0.0</td>                                                  
-<td>96.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>110</td>                                         
-              
-<td>1.0</td>                                             
-<td>6.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>7.0</td>                                                   
-<td>3.0</td>                                             
-<td>18.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>21.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>120</td>                                         
-              
-<td>1.0</td>                                             
-<td>7.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>8.0</td>                                                   
-<td>3.0</td>                                             
-<td>21.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>24.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>199</td>                                         
-              
-<td>10.0</td>                                             
-<td>8.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>18.0</td>                                                   
-<td>30.0</td>                                             
-<td>24.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>54.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>320</td>                                         
-              
-<td>0.0</td>                                             
-<td>8.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>8.0</td>                                                   
-<td>0.0</td>                                             
-<td>24.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>24.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>330</td>                                         
-              
-<td>1.0</td>                                             
-<td>14.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>15.0</td>                                                   
-<td>3.0</td>                                             
-<td>42.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>45.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>522</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>38.0</td>                                                  
-<td>0.0</td>                                                  
-<td>38.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>152.0</td>                                                  
-<td>0.0</td>                                                  
-<td>152.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>523</td>                                         
-              
-<td>6.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>32.0</td>                                                  
-<td>0.0</td>                                                  
-<td>38.0</td>                                                   
-<td>24.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>128.0</td>                                                  
-<td>0.0</td>                                                  
-<td>152.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>542</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>28.0</td>                                                  
-<td>3.0</td>                                                  
-<td>31.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>112.0</td>                                                  
-<td>12.0</td>                                                  
-<td>124.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>543</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>8.0</td>                                                  
-<td>46.0</td>                                                  
-<td>0.0</td>                                                  
-<td>54.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>24.0</td>                                                  
-<td>184.0</td>                                                  
-<td>0.0</td>                                                  
-<td>208.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>545</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>31.0</td>                                                  
-<td>0.0</td>                                                  
-<td>31.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>124.0</td>                                                  
-<td>0.0</td>                                                  
-<td>124.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>557</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>7.0</td>                                                  
-<td>7.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>28.0</td>                                                  
-<td>28.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>558</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>12.0</td>                                                  
-<td>12.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>48.0</td>                                                  
-<td>48.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>561</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>28.0</td>                                                  
-<td>0.0</td>                                                  
-<td>28.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>112.0</td>                                                  
-<td>0.0</td>                                                  
-<td>112.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>562</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>23.0</td>                                                  
-<td>0.0</td>                                                  
-<td>23.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>92.0</td>                                                  
-<td>0.0</td>                                                  
-<td>92.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>565</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>78.0</td>                                                  
-<td>0.0</td>                                                  
-<td>78.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>312.0</td>                                                  
-<td>0.0</td>                                                  
-<td>312.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>566</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>37.0</td>                                                  
-<td>1.0</td>                                                  
-<td>38.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>148.0</td>                                                  
-<td>4.0</td>                                                  
-<td>152.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>568</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>17.0</td>                                                  
-<td>0.0</td>                                                  
-<td>17.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>68.0</td>                                                  
-<td>0.0</td>                                                  
-<td>68.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>569</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>19.0</td>                                                  
-<td>0.0</td>                                                  
-<td>19.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>38.0</td>                                                  
-<td>0.0</td>                                                  
-<td>38.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>590</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>217.0</td>                                                  
-<td>3.0</td>                                                  
-<td>220.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>796.0</td>                                                  
-<td>12.0</td>                                                  
-<td>808.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>591</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>113.0</td>                                                  
-<td>0.0</td>                                                  
-<td>113.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>452.0</td>                                                  
-<td>0.0</td>                                                  
-<td>452.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>593</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>111.0</td>                                                  
-<td>0.0</td>                                                  
-<td>111.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>444.0</td>                                                  
-<td>0.0</td>                                                  
-<td>444.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>595</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>48.0</td>                                                  
-<td>0.0</td>                                                  
-<td>48.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>192.0</td>                                                  
-<td>0.0</td>                                                  
-<td>192.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>599</td>                                         
-              
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>7.0</td>                                                  
-<td>7.0</td>                                                   
-<td>0.0</td>                                             
-<td>0.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>74.0</td>                                                  
-<td>74.0</td>
-                                  
-</tr>                                              
-</table><br/>
-<h2>2. By Term, Subject, and Level</h2>
-<table border=1 cellpadding=4 bgcolor="#C3F7DB">
-<tr align=center VALIGN=BOTTOM>
-<th rowspan=2>Term</th>
-<th rowspan=2>College</th>
-<th rowspan=2>Dept</th>
-<th rowspan=2>Subject</th>
-<th rowspan=2>Level</th>
-<th colspan=6>Course Enrollment by student level</th>
-<th colspan=6>IUs by student level</th>
-
-</tr>
-<tr align=center valign=bottom>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th></tr>
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>100</td>                                         
-              
-<td>16.0</td>                                             
-<td>48.0</td>                                       
-<td>0.0</td>                                                  
-<td>1.0</td>                                                  
-<td>0.0</td>                                                  
-<td>65.0</td>                                                   
-<td>48.0</td>                                             
-<td>144.0</td>                                       
-<td>0.0</td>                                                  
-<td>3.0</td>                                                  
-<td>0.0</td>                                                  
-<td>195.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>300</td>                                         
-              
-<td>1.0</td>                                             
-<td>22.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>23.0</td>                                                   
-<td>3.0</td>                                             
-<td>66.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>69.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>500</td>                                         
-              
-<td>6.0</td>                                             
-<td>0.0</td>                                       
-<td>8.0</td>                                                  
-<td>866.0</td>                                                  
-<td>33.0</td>                                                  
-<td>913.0</td>                                                   
-<td>24.0</td>                                             
-<td>0.0</td>                                       
-<td>24.0</td>                                                  
-<td>3,354.0</td>                                                  
-<td>178.0</td>                                                  
-<td>3,580.0</td>
-                                  
-</tr>                                              
-</table><br/>
-<h2>3. By Term and Subject</h2>
-<table border=1 cellpadding=4 bgcolor="#F9FA9E">
-<tr align=center VALIGN=BOTTOM>
-<th rowspan=2>Term</th>
-<th rowspan=2>College</th>
-<th rowspan=2>Dept</th>
-<th rowspan=2>Subject</th>
-<th rowspan=2>Course</th>
-<th colspan=6>Course Enrollment by student level</th>
-<th colspan=6>IUs by student level</th>
-
-</tr>
-<tr align=center valign=bottom>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th></tr>
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>All</td>                                         
-              
-<td>23.0</td>                                             
-<td>70.0</td>                                       
-<td>8.0</td>                                                  
-<td>867.0</td>                                                  
-<td>33.0</td>                                                  
-<td>1,001.0</td>                                                   
-<td>75.0</td>                                             
-<td>210.0</td>                                       
-<td>24.0</td>                                                  
-<td>3,357.0</td>                                                  
-<td>178.0</td>                                                  
-<td>3,844.0</td>
-                                  
-</tr>                                              
-</table><br/>
-<h2>4. By Subject (All terms)</h2>
-<table border=1 cellpadding=4 bgcolor="#F5E3AD">
-<tr align=center VALIGN=BOTTOM>
-<th rowspan=2>Term</th>
-<th rowspan=2>College</th>
-<th rowspan=2>Dept</th>
-<th rowspan=2>Subject</th>
-<th rowspan=2>Course</th>
-<th colspan=6>Course Enrollment by student level</th>
-<th colspan=6>IUs by student level</th>
-
-</tr>
-<tr align=center valign=bottom>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th></tr>
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>All</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>LER </td>                                         
-<td align=left>All</td>                                         
-              
-<td>23.0</td>                                             
-<td>70.0</td>                                       
-<td>8.0</td>                                                  
-<td>867.0</td>                                                  
-<td>33.0</td>                                                  
-<td>1,001.0</td>                                                   
-<td>75.0</td>                                             
-<td>210.0</td>                                       
-<td>24.0</td>                                                  
-<td>3,357.0</td>                                                  
-<td>178.0</td>                                                  
-<td>3,844.0</td>
-                                  
-</tr>                                              
-</table><br/>
-<h2>5. By Term, Department, and Level</h2>
-<table border=1 cellpadding=4 bgcolor="#F5CBAD">
-<tr align=center VALIGN=BOTTOM>
-<th rowspan=2>Term</th>
-<th rowspan=2>College</th>
-<th rowspan=2>Dept</th>
-<th rowspan=2>Subject</th>
-<th rowspan=2>Level</th>
-<th colspan=6>Course Enrollment by student level</th>
-<th colspan=6>IUs by student level</th>
-
-</tr>
-<tr align=center valign=bottom>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th></tr>
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>All</td>                                         
-<td align=left>100</td>                                         
-              
-<td>16.0</td>                                             
-<td>48.0</td>                                       
-<td>0.0</td>                                                  
-<td>1.0</td>                                                  
-<td>0.0</td>                                                  
-<td>65.0</td>                                                   
-<td>48.0</td>                                             
-<td>144.0</td>                                       
-<td>0.0</td>                                                  
-<td>3.0</td>                                                  
-<td>0.0</td>                                                  
-<td>195.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>All</td>                                         
-<td align=left>300</td>                                         
-              
-<td>1.0</td>                                             
-<td>22.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>23.0</td>                                                   
-<td>3.0</td>                                             
-<td>66.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>69.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>All</td>                                         
-<td align=left>500</td>                                         
-              
-<td>6.0</td>                                             
-<td>0.0</td>                                       
-<td>8.0</td>                                                  
-<td>866.0</td>                                                  
-<td>33.0</td>                                                  
-<td>913.0</td>                                                   
-<td>24.0</td>                                             
-<td>0.0</td>                                       
-<td>24.0</td>                                                  
-<td>3,354.0</td>                                                  
-<td>178.0</td>                                                  
-<td>3,580.0</td>
-                                  
-</tr>                                              
-</table><br/>
-<h2>6. By Term and Department</h2>
-<table border=1 cellpadding=4 bgcolor="#F5ADD2">
-<tr align=center VALIGN=BOTTOM>
-<th rowspan=2>Term</th>
-<th rowspan=2>College</th>
-<th rowspan=2>Dept</th>
-<th rowspan=2>Subject</th>
-<th rowspan=2>Level</th>
-<th colspan=6>Course Enrollment by student level</th>
-<th colspan=6>IUs by student level</th>
-
-</tr>
-<tr align=center valign=bottom>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th></tr>
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>1-568</td>                                         
-<td align=left>All</td>                                         
-<td align=left>All</td>                                         
-              
-<td>23.0</td>                                             
-<td>70.0</td>                                       
-<td>8.0</td>                                                  
-<td>867.0</td>                                                  
-<td>33.0</td>                                                  
-<td>1,001.0</td>                                                   
-<td>75.0</td>                                             
-<td>210.0</td>                                       
-<td>24.0</td>                                                  
-<td>3,357.0</td>                                                  
-<td>178.0</td>                                                  
-<td>3,844.0</td>
-                                  
-</tr>                                              
-</table><br/>
-<h2>7. By Term, College, and Level</h2>
-<table border=1 cellpadding=4 bgcolor="#D2ADF5">
-<tr align=center VALIGN=BOTTOM>
-<th rowspan=2>Term</th>
-<th rowspan=2>College</th>
-<th rowspan=2>Dept</th>
-<th rowspan=2>Subject</th>
-<th rowspan=2>Level</th>
-<th colspan=6>Course Enrollment by student level</th>
-<th colspan=6>IUs by student level</th>
-
-</tr>
-<tr align=center valign=bottom>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th></tr>
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>All</td>                                         
-<td align=left>All</td>                                         
-<td align=left>100</td>                                         
-              
-<td>16.0</td>                                             
-<td>48.0</td>                                       
-<td>0.0</td>                                                  
-<td>1.0</td>                                                  
-<td>0.0</td>                                                  
-<td>65.0</td>                                                   
-<td>48.0</td>                                             
-<td>144.0</td>                                       
-<td>0.0</td>                                                  
-<td>3.0</td>                                                  
-<td>0.0</td>                                                  
-<td>195.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>All</td>                                         
-<td align=left>All</td>                                         
-<td align=left>300</td>                                         
-              
-<td>1.0</td>                                             
-<td>22.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>23.0</td>                                                   
-<td>3.0</td>                                             
-<td>66.0</td>                                       
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>0.0</td>                                                  
-<td>69.0</td>
-                                  
-</tr>                                              
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>All</td>                                         
-<td align=left>All</td>                                         
-<td align=left>500</td>                                         
-              
-<td>6.0</td>                                             
-<td>0.0</td>                                       
-<td>8.0</td>                                                  
-<td>866.0</td>                                                  
-<td>33.0</td>                                                  
-<td>913.0</td>                                                   
-<td>24.0</td>                                             
-<td>0.0</td>                                       
-<td>24.0</td>                                                  
-<td>3,354.0</td>                                                  
-<td>178.0</td>                                                  
-<td>3,580.0</td>
-                                  
-</tr>                                              
-</table><br/>         
-<h2>8. By Term and College</h2>
-<table border=1 cellpadding=4 bgcolor="#ADC5F5">
-<tr align=center VALIGN=BOTTOM>
-<th rowspan=2>Term</th>
-<th rowspan=2>College</th>
-<th rowspan=2>Dept</th>
-<th rowspan=2>Subject</th>
-<th rowspan=2>Level</th>
-<th colspan=6>Course Enrollment by student level</th>
-<th colspan=6>IUs by student level</th>
-
-</tr>
-<tr align=center valign=bottom>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th>
-<th>Fr/<br>Soph</th>
-<th>Junior/<br>Senior</th>
-<th>Profnl</th>
-<th>Grad 1</th>
-<th>Grad 2</th>
-<th>Total</th></tr>
-<tr align=right VALIGN=BOTTOM>                                  
-<td align=left>   FA18</td>                                          
-<td align=left>LG</td>                                         
-<td align=left>All</td>                                         
-<td align=left>All</td>                                         
-<td align=left>All</td>                                         
-              
-<td>23.0</td>                                             
-<td>70.0</td>                                       
-<td>8.0</td>                                                  
-<td>867.0</td>                                                  
-<td>33.0</td>                                                  
-<td>1,001.0</td>                                                   
-<td>75.0</td>                                             
-<td>210.0</td>                                       
-<td>24.0</td>                                                  
-<td>3,357.0</td>                                                  
-<td>178.0</td>                                                  
-<td>3,844.0</td>
-                                  
-</tr>                                              
-</table><br/>         
- 
-                                                            
-</div>                                                        
-
-                                                              
-<a href="https://illinois.edu/fb/sec/6606213"><img src="img/suggestion_box_dmi.png" style="padding-left:5px;padding-top:5px;padding-bottom:10px;"></a>
-</div>
-<div id="bottombar" class="noprint">
-<a href="http://www.dmi.illinois.edu/">Division of Management Information</a><br> 
-100 Swanlund Administration Building 
-<br>601 East John Street, MC304 
-<br>Champaign, IL 61820
-<br>phone: (217) 333-3551 | fax: (217) 244-2098 | email: <a href="mailto:dmi@illinois.edu" mailto="mailto:">dmi@illinois.edu</a>
-<br>
-<br>&copy; Copyright 2018 University of Illinois Board of Trustees</p>
-       </span>
-	</div>
-</div>
-</body>
-
-</html>
-
-     
-                                                                                                                   
-                                                                                                      
+Division of Management Information Course Information System,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Enrollments and IUs by Course, Subject, and Offering Department",,,,,,,,,,,,,,,,
+2018-19,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+2018-19 courses are still in progress. Final figures will be available by the end of September.,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+1. By Term and Course,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Term,College,Dept,Subject,Course,Course Enrollment by student level,,,,,,IUs by student level,,,,,
+,,,,,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total
+,,,,,Soph,Senior,,,,,Soph,Senior,,,,
+FA18,LD,1-558,NS,100,22,6,0,0,0,28,22,6,0,0,0,28
+FA18,LD,1-558,NS,101,17,1,0,0,0,18,34,2,0,0,0,36
+FA18,LD,1-558,NS,204,8,4,0,0,0,12,24,12,0,0,0,36
+FA18,LD,1-558,NS,305,0,12,0,0,0,12,0,36,0,0,0,36
+FA18,LD,1-558,NS,308,0,6,0,0,0,6,0,12,0,0,0,12
+FA18,LD,1-558,NS,321,6,5,0,0,0,11,18,15,0,0,0,33
+FA18,LD,1-762,AFAS,102,49,34,0,0,0,83,49,34,0,0,0,83
+FA18,LD,1-762,AFAS,111,37,1,0,0,0,38,37,1,0,0,0,38
+FA18,LD,1-762,AFAS,221,18,1,0,0,0,19,18,1,0,0,0,19
+FA18,LD,1-762,AFAS,331,0,17,0,0,0,17,0,51,0,0,0,51
+FA18,LD,1-762,AFAS,341,0,17,0,0,0,17,0,51,0,0,0,51
+FA18,LD,1-914,MILS,101,21,6,0,1,0,28,42,12,0,2,0,56
+FA18,LD,1-914,MILS,112,21,5,0,1,0,27,21,5,0,1,0,27
+FA18,LD,1-914,MILS,120,24,7,0,0,0,31,72,21,0,0,0,93
+FA18,LD,1-914,MILS,201,17,8,0,0,0,25,34,16,0,0,0,50
+FA18,LD,1-914,MILS,212,17,8,0,0,0,25,34,16,0,0,0,50
+FA18,LD,1-914,MILS,301,4,19,0,1,0,24,12,57,0,3,0,72
+FA18,LD,1-914,MILS,312,3,19,0,1,0,23,9,57,0,3,0,69
+FA18,LD,1-914,MILS,322,0,17,0,1,0,18,0,51,0,3,0,54
+FA18,LD,1-914,MILS,325,0,2,0,0,0,2,0,3,0,0,0,3
+FA18,LD,1-914,MILS,341,0,17,0,1,0,18,0,51,0,3,0,54
+,,,,,,,,,,,,,,,,
+"2. By Term, Subject, and Level",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Term,College,Dept,Subject,Level,Course Enrollment by student level,,,,,,IUs by student level,,,,,
+,,,,,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total
+,,,,,Soph,Senior,,,,,Soph,Senior,,,,
+FA18,LD,1-558,NS,100,39,7,0,0,0,46,56,8,0,0,0,64
+FA18,LD,1-558,NS,200,8,4,0,0,0,12,24,12,0,0,0,36
+FA18,LD,1-558,NS,300,6,23,0,0,0,29,18,63,0,0,0,81
+FA18,LD,1-762,AFAS,100,86,35,0,0,0,121,86,35,0,0,0,121
+FA18,LD,1-762,AFAS,200,18,1,0,0,0,19,18,1,0,0,0,19
+FA18,LD,1-762,AFAS,300,0,34,0,0,0,34,0,102,0,0,0,102
+FA18,LD,1-914,MILS,100,66,18,0,2,0,86,135,38,0,3,0,176
+FA18,LD,1-914,MILS,200,34,16,0,0,0,50,68,32,0,0,0,100
+FA18,LD,1-914,MILS,300,7,74,0,4,0,85,21,219,0,12,0,252
+,,,,,,,,,,,,,,,,
+3. By Term and Subject,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Term,College,Dept,Subject,Course,Course Enrollment by student level,,,,,,IUs by student level,,,,,
+,,,,,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total
+,,,,,Soph,Senior,,,,,Soph,Senior,,,,
+FA18,LD,1-558,NS,All,53,34,0,0,0,87,98,83,0,0,0,181
+FA18,LD,1-762,AFAS,All,104,70,0,0,0,174,104,138,0,0,0,242
+FA18,LD,1-914,MILS,All,107,108,0,6,0,221,224,289,0,15,0,528
+,,,,,,,,,,,,,,,,
+4. By Subject (All terms),,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Term,College,Dept,Subject,Course,Course Enrollment by student level,,,,,,IUs by student level,,,,,
+,,,,,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total
+,,,,,Soph,Senior,,,,,Soph,Senior,,,,
+All,LD,1-558,NS,All,53,34,0,0,0,87,98,83,0,0,0,181
+All,LD,1-762,AFAS,All,104,70,0,0,0,174,104,138,0,0,0,242
+All,LD,1-914,MILS,All,107,108,0,6,0,221,224,289,0,15,0,528
+,,,,,,,,,,,,,,,,
+"5. By Term, Department, and Level",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Term,College,Dept,Subject,Level,Course Enrollment by student level,,,,,,IUs by student level,,,,,
+,,,,,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total
+,,,,,Soph,Senior,,,,,Soph,Senior,,,,
+FA18,LD,1-558,All,100,39,7,0,0,0,46,56,8,0,0,0,64
+FA18,LD,1-558,All,200,8,4,0,0,0,12,24,12,0,0,0,36
+FA18,LD,1-558,All,300,6,23,0,0,0,29,18,63,0,0,0,81
+FA18,LD,1-762,All,100,86,35,0,0,0,121,86,35,0,0,0,121
+FA18,LD,1-762,All,200,18,1,0,0,0,19,18,1,0,0,0,19
+FA18,LD,1-762,All,300,0,34,0,0,0,34,0,102,0,0,0,102
+FA18,LD,1-914,All,100,66,18,0,2,0,86,135,38,0,3,0,176
+FA18,LD,1-914,All,200,34,16,0,0,0,50,68,32,0,0,0,100
+FA18,LD,1-914,All,300,7,74,0,4,0,85,21,219,0,12,0,252
+,,,,,,,,,,,,,,,,
+6. By Term and Department,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Term,College,Dept,Subject,Level,Course Enrollment by student level,,,,,,IUs by student level,,,,,
+,,,,,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total
+,,,,,Soph,Senior,,,,,Soph,Senior,,,,
+FA18,LD,1-558,All,All,53,34,0,0,0,87,98,83,0,0,0,181
+FA18,LD,1-762,All,All,104,70,0,0,0,174,104,138,0,0,0,242
+FA18,LD,1-914,All,All,107,108,0,6,0,221,224,289,0,15,0,528
+,,,,,,,,,,,,,,,,
+"7. By Term, College, and Level",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Term,College,Dept,Subject,Level,Course Enrollment by student level,,,,,,IUs by student level,,,,,
+,,,,,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total
+,,,,,Soph,Senior,,,,,Soph,Senior,,,,
+FA18,LD,All,All,100,191,60,0,2,0,253,277,81,0,3,0,361
+FA18,LD,All,All,200,60,21,0,0,0,81,110,45,0,0,0,155
+FA18,LD,All,All,300,13,131,0,4,0,148,39,384,0,12,0,435
+,,,,,,,,,,,,,,,,
+8. By Term and College,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Term,College,Dept,Subject,Level,Course Enrollment by student level,,,,,,IUs by student level,,,,,
+,,,,,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total,Fr/,Junior/,Profnl,Grad 1,Grad 2,Total
+,,,,,Soph,Senior,,,,,Soph,Senior,,,,
+FA18,LD,All,All,All,264,212,0,6,0,482,426,510,0,15,0,951
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Division of Management Information,,,,,,,,,,,,,,,,
+100 Swanlund Administration Building,,,,,,,,,,,,,,,,
+"601 East John Street, MC304",,,,,,,,,,,,,,,,
+"Champaign, IL 61820",,,,,,,,,,,,,,,,
+phone: (217) 333-3551 | fax: (217) 244-2098 | email: dmi@illinois.edu,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+© Copyright 2018 University of Illinois Board of Trustees,,,,,,,,,,,,,,,,
