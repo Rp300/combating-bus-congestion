@@ -21,7 +21,7 @@ During the school year, bus traffic at stops around campuses fluctuates dramatic
 |Data|Content|
 |----|-------|
 |General Transit Feed Specification (GTFS): https://developer.cumtd.com/|The GTFS, developed by GoogleTM , in conjunction with several other transit agencies, is an open format that defines schedule and geographic information for public transport systems. The original intention was to create a format to power Google MapsTM.The GTFS datasets contain information about bus routes, locations of stops, and trip schedule for CU-MTD public transportation system. The zip file contains the following files: *agency.txt, calendar.txt, calendar_dates.txt, routes.txt, shapes.txt, stop_times.txt, stops.txt, trips.txt.* Detailed definitions of fields in datasets from GTFS are available at https://developers.google.com/transit/gtfs/reference/?csw=1|
-|Courses Data|<ul> <li>**Enrollment**: Number of students in all classes coded by class CRNs.</li> <li>**Schedule**: The meeting time and location for all classes coded by class CRNs are put together in a big csv file. Some preproceessing is needed. The pdf file that the csv was extracted from is also provided.</li> </ul>|
+|Courses Data|<ul> <li>**Enrollment**: Number of students in all classes coded by class CRNs.</li> <li>**Schedule**: The meeting time and location for all classes coded by class CRNs are put together in a big csv file. Some preproceessing is needed. The pdf file frow which the csv was extracted is also provided.</li> </ul>|
 
 
 
