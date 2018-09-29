@@ -1,4 +1,4 @@
-# CU-MTD
+# COMBATING BUS CONGESTION
 ## Organization Name: 
 Champaign - Urbana Mass Transit District (CU-MTD).
  
